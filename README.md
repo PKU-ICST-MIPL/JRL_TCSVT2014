@@ -1,7 +1,7 @@
 # Introduction
 This is the source code of our TCSVT 2014 paper "Learning Cross-Media Joint Representation with Sparse and Semisupervised Regularization", Please cite the following paper if you use our code.
 
-Xiaohua Zhai, Yuxin Peng, and Jianguo Xiao, "Learning Cross-Media Joint Representation with Sparse and Semisupervised Regularization", IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Vol. 24, No. 6, pp. 965-978 , Jun. 2014. 
+Xiaohua Zhai, Yuxin Peng, and Jianguo Xiao, "Learning Cross-Media Joint Representation with Sparse and Semisupervised Regularization", IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Vol. 24, No. 6, pp. 965-978 , Jun. 2014. [[PDF]](http://www.icst.pku.edu.cn/mipl/tiki-download_file.php?fileId=269)
 
 # Usage
 Run our script to train and test:
