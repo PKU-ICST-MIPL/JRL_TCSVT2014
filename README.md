@@ -26,7 +26,7 @@ The source codes are for Wikipedia dataset, which can be download via: http://ww
 
 For more information, please refer to our [paper](http://www.icst.pku.edu.cn/mipl/tiki-download_file.php?fileId=269)
 
-# Our Related work
+# Our Related Work
 If you are interested in cross-media retrieval, you can check our recently published overview paper on IEEE TCSVT:
 
 Yuxin Peng, Xin Huang, and Yunzhen Zhao, "An Overview of Cross-media Retrieval: Concepts, Methodologies, Benchmarks and Challenges", IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2017.[[PDF]](http://www.icst.pku.edu.cn/mipl/tiki-download_file.php?fileId=376)
