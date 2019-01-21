@@ -1,7 +1,7 @@
 # Introduction
 This is the source code of our TCSVT 2014 paper "Learning Cross-Media Joint Representation with Sparse and Semisupervised Regularization", Please cite the following paper if you use our code.
 
-Xiaohua Zhai, Yuxin Peng, and Jianguo Xiao, "Learning Cross-Media Joint Representation with Sparse and Semisupervised Regularization", IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Vol. 24, No. 6, pp. 965-978 , Jun. 2014. [[PDF]](http://www.icst.pku.edu.cn/mipl/tiki-download_file.php?fileId=269)
+Xiaohua Zhai, Yuxin Peng, and Jianguo Xiao, "Learning Cross-Media Joint Representation with Sparse and Semisupervised Regularization", IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Vol. 24, No. 6, pp. 965-978 , Jun. 2014. [[PDF]](http://59.108.48.34/mipl/tiki-download_file.php?fileId=269)
 
 # Usage
 Run our script to train and test:
@@ -24,12 +24,12 @@ The parameters are as follows:
 
 The source codes are for Wikipedia dataset, which can be download via: http://www.svcl.ucsd.edu/projects/crossmodal/.
 
-For more information, please refer to our [paper](http://www.icst.pku.edu.cn/mipl/tiki-download_file.php?fileId=269)
+For more information, please refer to our [paper](http://59.108.48.34/mipl/tiki-download_file.php?fileId=269)
 
 # Our Related Work
 If you are interested in cross-media retrieval, you can check our recently published overview paper on IEEE TCSVT:
 
-Yuxin Peng, Xin Huang, and Yunzhen Zhao, "An Overview of Cross-media Retrieval: Concepts, Methodologies, Benchmarks and Challenges", IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2017.[[PDF]](http://www.icst.pku.edu.cn/mipl/tiki-download_file.php?fileId=376)
+Yuxin Peng, Xin Huang, and Yunzhen Zhao, "An Overview of Cross-media Retrieval: Concepts, Methodologies, Benchmarks and Challenges", IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2017.[[PDF]](http://59.108.48.34/mipl/tiki-download_file.php?fileId=376)
 
-Welcome to our [Benchmark Website](http://www.icst.pku.edu.cn/mipl/xmedia) and [Laboratory Homepage](http://www.icst.pku.edu.cn/mipl) for more information about our papers, source codes, and datasets.
+Welcome to our [Benchmark Website](http://59.108.48.34/mipl/xmedia) and [Laboratory Homepage](http://www.icst.pku.edu.cn/mipl) for more information about our papers, source codes, and datasets.
 
